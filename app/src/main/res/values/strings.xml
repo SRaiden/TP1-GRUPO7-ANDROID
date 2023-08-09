@@ -1,3 +1,17 @@
 <resources>
     <string name="app_name">TP1-GRUPO7</string>
+    <!-- MENU PRINCIPAL -->
+    <string name="titulo">Bienvenidos al TP N°1</string>
+    <string name="btnEjercicio1">Ejercicio 1</string>
+    <string name="btnEjercicio2">Ejercicio 2</string>
+    <string name="titleIntegrantes">Integrantes</string>
+    <string name="integrantes">Natanael Gomez Carrizo\nAdriel Elian Rasjido</string>
+    <!-- Ejercicio 1 -->
+    <string name="tvNumber1">Ingrese un valor</string>
+    <string name="tvNumber2">Ingrese otro valor</string>
+    <string name="btnSumar">Sumar</string>
+    <string name="resultadoSuma">El resultado es:</string>
+
+
+    <!-- Ejercicio 2 -->
 </resources>
